@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Qt, Django, Mysql**
 
-- 📫 How to reach me **gersalina28@gmail.com**
+- 📫 How to reach me **gersalina28@gmail.com**  [![Copiar](https://img.shields.io/badge/%F0%9F%93%8B-Copiar-blue?style=flat-square)](javascript:void(0))
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/german-salina-bioingeniero-despachante-de-aduanas/](https://www.linkedin.com/in/german-salina-bioingeniero-despachante-de-aduanas/)
 
