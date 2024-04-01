@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently practicing **AWS**
 
-- 👯 I’m looking to collaborate on **Data science**
+- 👯 I’m looking to collaborate on **Data Engineering**
 
 - 💬 Ask me about **Python, Qt, Django, Mysql**
 
