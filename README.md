@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working as a Systems Administrator for the city government of General Ramírez, Argentina. ["Information technology and modernization"](https://generalramirez.gob.ar/)
 
-- 🌱 I’m currently practicing **AWS**
+- 🌱 I’m currently practicing: **AWS**
 
-- 👯 I’m looking to collaborate on **Data Engineering**
+- 👯 I’m looking to collaborate on: **Data Engineering**
 
-- 💬 Ask me about **Python, Qt, Django, Mysql**
+- 💬 Ask me about: **Python, Qt, Django, Mysql**
 
-- 📫 How to reach me **gersalina28@gmail.com** 
+- 📫 How to reach me: **gersalina28@gmail.com** 
 
-- 📄 Know about my experiences [**Mi Sitio**](https://german-salina.super.site/)
+- 📄 Know about my experiences: [**Mi Sitio**](https://german-salina.super.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
