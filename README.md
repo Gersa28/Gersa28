@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gersalina28@gmail.com** 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ingeniero-salina-german/](https://www.linkedin.com/in/german-salina-bioingeniero-despachante-de-aduanas/)
+- 📄 Know about my experiences ** [https://www.linkedin.com/in/ingeniero-salina-german/](https://www.linkedin.com/in/german-salina-bioingeniero-despachante-de-aduanas/) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
