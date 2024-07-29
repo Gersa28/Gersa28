@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **gersalina28@gmail.com** 
 
-- 📄 Know about my experiences: [**Mi Sitio**](https://german-salina.super.site/)
+- 📄 Know about my experiences: **[Mi Sitio]**(https://www.notion.so/german-salina/775f8b5f910841a19ea81c4dbac66aec?v=15294479cb594a09afbd39259970f989)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
