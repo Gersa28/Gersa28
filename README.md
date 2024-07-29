@@ -15,6 +15,11 @@
 
 - 📄 Know about my experiences: **[Mi Sitio](https://www.notion.so/german-salina/775f8b5f910841a19ea81c4dbac66aec?v=15294479cb594a09afbd39259970f989)**
 
+Les dejo la [guía completa del curso](https://www.notion.so/german-salina/FastAPI-742d73674a5f4daea8f187dc8321d8), la van necesitar, luego me agradecen. 
+
+Nos vemos en [LinkedIn](https://www.linkedin.com/in/ingeniero-salina-german/)!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ingeniero-salina-german/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="germán salina" height="30" width="40" /></a>
