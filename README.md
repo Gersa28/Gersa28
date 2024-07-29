@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on: **Data Engineering**
 
-- 💬 Ask me about: ** BIOENGINEER | #DBA #Backend #SQL #NoSQL #Python Developer #Django #MVC #PyQt #Data Engineer #Git #GitHub #Scrum **
+- 💬 Ask me about: **BIOENGINEER | #DBA #Backend #SQL #NoSQL #Python Developer #Django #MVC #PyQt #Data Engineer #Git #GitHub #Scrum**
 
 - 📫 How to reach me: **gersalina28@gmail.com** 
 
