@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a Systems Administrator for the city government of General Ramírez, Argentina. ["Information technology and modernization"](https://generalramirez.gob.ar/)
 
-- 🌱 I’m currently practicing: **AWS**
-
 - 👯 I’m looking to collaborate on: **Data Engineering**
 
 - 💬 Ask me about: **BIOENGINEER | #DBA #Backend #SQL #NoSQL #Python Developer #Django #MVC #PyQt #Data Engineer #Git #GitHub #Scrum**
